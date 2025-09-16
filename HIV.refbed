@@ -1,0 +1,10 @@
+HIV	9710	10343	9710	10343	+	3'LTR	3'LTR	coding	9710	10343	gene_id "3'LTR"; transcript_id "3'LTR"; gene_name "3'LTR"; gene_biotype "protein_coding";
+HIV	145	778	145	778	+	5'LTR	5'LTR	coding	145	778	gene_id "5'LTR"; transcript_id "5'LTR"; gene_name "5'LTR"; gene_biotype "protein_coding";
+HIV	6365	8931	6365	8931	+	Env_transcript_(mut)	Env_transcript_(mut)	coding	6365	8931	gene_id "Env_transcript_(mut)"; transcript_id "Env_transcript_(mut)"; gene_name "Env_transcript_(mut)"; gene_biotype "protein_coding";
+HIV	934	5240	934	5240	+	Gag-Pol	Gag-Pol	coding	934	5240	gene_id "Gag-Pol"; transcript_id "Gag-Pol"; gene_name "Gag-Pol"; gene_biotype "protein_coding";
+HIV	8934	9653	8934	9653	+	GFP	GFP	coding	8934	9653	gene_id "GFP"; transcript_id "GFP"; gene_name "GFP"; gene_biotype "protein_coding";
+HIV	6113	6187	6113	6187	+	Rev	Rev	coding	6113,8514	6187,8789	gene_id "Rev"; transcript_id "Rev"; exon_number "1";gene_name "Rev"; gene_biotype "protein_coding";
+HIV	5974	6188	5974	6188	+	Tat	Tat	coding	5974,8515	6188,8560	gene_id "Tat"; transcript_id "Tat"; exon_number "1";gene_name "Tat"; gene_biotype "protein_coding";
+HIV	5185	5763	5185	5763	+	Vif	Vif	coding	5185	5763	gene_id "Vif"; transcript_id "Vif"; gene_name "Vif"; gene_biotype "protein_coding";
+HIV	5703	5993	5703	5993	+	Vpr	Vpr	coding	5703	5993	gene_id "Vpr"; transcript_id "Vpr"; gene_name "Vpr"; gene_biotype "protein_coding";
+HIV	6205	6450	6205	6450	+	Vpu	Vpu	coding	6205	6450	gene_id "Vpu"; transcript_id "Vpu"; gene_name "Vpu"; gene_biotype "protein_coding";
