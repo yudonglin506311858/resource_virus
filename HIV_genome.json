@@ -1,0 +1,29 @@
+{
+  "name": "HIV",
+  "id": "HIV",
+  "group": "Virus",
+  "chromosomes": [
+    {
+      "name": "HIV",
+      "length": 110360
+    }
+  ],
+  "cytobands": {},
+  "defaultRegion": "HIV:50001-60360",
+
+  "publicHubList": [],
+  "publicHubData": {},
+  "defaultTracks": [
+    {
+      "type": "ruler",
+      "name": "ruler"
+    },
+    {
+      "type": "refbed",
+      "name": "HIV",
+      "url": "https://yudonglin506311858.github.io/resource_virus/HIV.refbed.gz",
+      "mode": "full"
+    }
+  ],
+  "twoBitURL": "https://yudonglin506311858.github.io/resource_virus/HIV_genome.2bit"
+}
